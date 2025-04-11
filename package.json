@@ -1,0 +1,16 @@
+{
+  "name": "hero2",
+  "version": "1.0.0",
+  "description": "a code for learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coding",
+    "prince",
+    "leaerning"
+  ],
+  "author": "ankit dubey",
+  "license": "ISC"
+}
