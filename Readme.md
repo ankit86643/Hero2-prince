@@ -8,3 +8,4 @@
  4. git commit -m "basic name"
  5. git branch - kis branch me hain
  6. git branch -m Main
+ 7. git push -u origin Main
